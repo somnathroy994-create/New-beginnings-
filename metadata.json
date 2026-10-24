@@ -1,0 +1,6 @@
+{
+  "name": "Reading Habit",
+  "description": "Simple multilingual reading for books, history, geography, science, and stories with instant translation across Bengali, Hindi, Tamil, Chinese, English, plus interactive topic visualizations and read-aloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
